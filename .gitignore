@@ -148,5 +148,11 @@ Thumbs.db #thumbnail cache on Windows
 # profiling data
 .prof
 
-
+.idea/
+base
+database.sig
+cong.cfg
+log
+pyhids_rsa
+pyhids_rsa.pub
 # End of https://www.toptal.com/developers/gitignore/api/python
