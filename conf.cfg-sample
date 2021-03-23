@@ -1,0 +1,10 @@
+[globals]
+nb_bits = 752
+timer = 10
+alg = sha256
+token = E49756B4C8FAB4E48222A3E7F3B97CC3
+[files]
+file1 = D:/test/hola.txt
+[rules]
+rule1 = .* D:/test/
+[commands]
